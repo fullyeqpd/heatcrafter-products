@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "HeatCrafter product",
+  "type": "object",
+  "required": ["id", "name", "brand", "category", "price", "display_status", "specs", "active"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "name": { "type": "string", "minLength": 3, "maxLength": 120 },
+    "brand": { "type": "string", "minLength": 2 },
+    "category": { "type": "string" },
+    "subcategory": { "type": ["string", "null"] },
+    "site_page": { "type": ["string", "null"], "pattern": "^[a-z0-9/-]+/$" },
+    "price": {
+      "type": "object",
+      "required": ["amount_usd", "display"],
+      "additionalProperties": false,
+      "properties": {
+        "amount_usd": { "type": ["number", "null"], "minimum": 0 },
+        "display": { "type": "string" },
+        "note": { "type": "string" },
+        "starting_at": { "type": "boolean" }
+      }
+    },
+    "display_status": { "enum": ["burning_now", "on_live_display", "available_to_order", "special_order", "discontinued"] },
+    "summary": { "type": "string", "maxLength": 400 },
+    "specs": { "type": "object", "additionalProperties": { "type": "string" }, "maxProperties": 24 },
+    "images": { "type": "object", "additionalProperties": { "type": "string" } },
+    "finishes": { "type": "array", "items": { "type": "string" } },
+    "options": { "type": "array", "items": { "type": "string" } },
+    "features": { "type": "array", "items": { "type": "string" } },
+    "active": { "type": "boolean" },
+    "last_verified": { "type": ["string", "null"] },
+    "notes_for_site_team": { "type": "string", "maxLength": 1000 }
+  }
+}
