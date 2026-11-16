@@ -11,3 +11,25 @@ jobs:
         with: { python-version: "3.12" }
       - run: pip install jsonschema
       - run: python3 tools/validate.py
+  notify-site:
+    # After validation passes on main, tell the site repo to re-apply the
+    # catalog (fullyeqpd/heatcrafter "Catalog sync" workflow). Requires the
+    # CATALOG_SYNC_TOKEN secret; skips quietly when it is not configured.
+    needs: validate
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch catalog-updated to fullyeqpd/heatcrafter
+        env:
+          TOKEN: ${{ secrets.CATALOG_SYNC_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "CATALOG_SYNC_TOKEN not set - skipping site dispatch."
+            exit 0
+          fi
+          curl -sS -f -X POST \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/fullyeqpd/heatcrafter/dispatches \
+            -d '{"event_type":"catalog-updated"}'
+          echo "Dispatched."
