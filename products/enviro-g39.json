@@ -17,21 +17,48 @@
     "Type": "Direct vent gas fireplace",
     "Fuel": "Natural gas or LP",
     "Venting": "Direct vent (coaxial)",
-    "Max output": "30,000 BTU/hr",
-    "Heating area": "Up to ~1,100 sq ft",
-    "Viewing area": "39\" wide",
-    "Ignition": "Electronic · remote-ready",
-    "Efficiency": "Up to 72%",
-    "Dimensions": "45\"W × 30\"H × 16\"D",
+    "Max input": "30,000 BTU/hr (natural gas)",
+    "Min output": "10,000 BTU/hr",
+    "Heating area": "Up to 1,600 sq ft",
+    "Viewing area": "30\" W × 24\" H",
+    "Ignition": "Millivolt or IPI",
+    "Efficiency": "69.8% P4",
+    "Fan": "Run-Quiet fan system, 130 CFM",
+    "Weight": "192 lbs",
+    "Dimensions": "42\"W × 42\"H × 18\"D",
     "Finishes": "Fronts, faces & liners"
   },
   "images": {
     "hero": "generated-1783385014721.png"
   },
-  "finishes": [],
-  "options": [],
-  "features": [],
+  "finishes": [
+    "Face: Slim Face, Painted Black (included), 39\" W × 33 3/4\" H",
+    "Face: Forgeworks Face, Midnight Bronze, 39\" W × 33 3/4\" H",
+    "Liner: Painted Black (included)",
+    "Liner: Black Enameled",
+    "Liner: Brick, Painted Black",
+    "Liner: Brick, Rustic Brown",
+    "Liner: Herringbone",
+    "Liner: Ledgestone"
+  ],
+  "options": [
+    "Glass burner or log burner",
+    "Log sets: Birch or Traditional",
+    "Driftwood log set (glass burner)",
+    "Andirons",
+    "Ceramic glass door",
+    "Horizontal power vent kit (10–110 ft)"
+  ],
+  "features": [
+    "Adjustable ember bed lighting (IPI log burner)",
+    "Cool Surface System HDK included",
+    "Clear View safety screen",
+    "Painted steel liner and slim face included",
+    "Run-Quiet fan system",
+    "Clean face look with no louvers",
+    "Millivolt or IPI ignition"
+  ],
   "active": true,
   "last_verified": null,
-  "notes_for_site_team": ""
+  "notes_for_site_team": "Specs, finishes, options and features updated from enviro.com G39 page (2026-11-16). Hero image is still a placeholder; real photo pending from Charlie. Previous 'Viewing area 39\" wide' was the face width; glass is 30\" W x 24\" H."
 }
