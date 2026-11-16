@@ -1,0 +1,37 @@
+{
+  "id": "enviro-q1",
+  "name": "Enviro Q1 Gas Fireplace Insert",
+  "brand": "Enviro",
+  "category": "fireplace-insert",
+  "subcategory": "gas-fireplace-insert",
+  "site_page": "fireplace-insert/gas-fireplace-insert/enviro-q1/",
+  "price": {
+    "amount_usd": 7700,
+    "display": "From $7,700",
+    "note": "before install · financing available",
+    "starting_at": true
+  },
+  "display_status": "available_to_order",
+  "summary": "The modern update a dated firebox has been waiting for — a crisp ribbon of flame that makes a smaller room feel deliberately designed.",
+  "specs": {
+    "Type": "Gas fireplace insert",
+    "Fuel": "Natural gas or LP",
+    "Venting": "Direct vent (coaxial)",
+    "Max output": "20,000 BTU/hr",
+    "Heating area": "Up to ~800–1,000 sq ft",
+    "Viewing area": "25\" wide",
+    "Ignition": "Electronic, battery backup",
+    "Efficiency": "Up to 72%",
+    "Dimensions": "32\"W × 25\"H × 18\"D",
+    "Finishes": "Fronts, faces & liners"
+  },
+  "images": {
+    "hero": "generated-1783384736048.png"
+  },
+  "finishes": [],
+  "options": [],
+  "features": [],
+  "active": true,
+  "last_verified": null,
+  "notes_for_site_team": ""
+}

@@ -1,0 +1,37 @@
+{
+  "id": "kozy-heat-chaska-29",
+  "name": "Kozy Heat Chaska 29 Gas Fireplace Insert",
+  "brand": "Kozy Heat",
+  "category": "fireplace-insert",
+  "subcategory": "gas-fireplace-insert",
+  "site_page": "fireplace-insert/gas-fireplace-insert/kozy-heat-chaska-29/",
+  "price": {
+    "amount_usd": 11200,
+    "display": "From $11,200",
+    "note": "before install · financing available",
+    "starting_at": true
+  },
+  "display_status": "on_live_display",
+  "summary": "The fire you picture when someone says \"fireplace\" — deep, unhurried flames in a classic brick opening.",
+  "specs": {
+    "Type": "Gas fireplace insert",
+    "Fuel": "Natural gas or LP",
+    "Venting": "Direct vent (coaxial)",
+    "Max output": "28,000 BTU/hr",
+    "Heating area": "Up to ~1,000 sq ft",
+    "Viewing area": "29\" wide",
+    "Ignition": "Electronic, battery backup",
+    "Efficiency": "Up to 74% (P4)",
+    "Dimensions": "34\"W × 27\"H × 21\"D",
+    "Finishes": "Fronts, faces & liners"
+  },
+  "images": {
+    "hero": "unsplash-hotlink — see site page"
+  },
+  "finishes": [],
+  "options": [],
+  "features": [],
+  "active": true,
+  "last_verified": null,
+  "notes_for_site_team": "Hero image is an Unsplash hotlink on the site; needs a real product photo."
+}

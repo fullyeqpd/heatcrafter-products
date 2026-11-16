@@ -1,0 +1,37 @@
+{
+  "id": "real-fyre-rugged-forest-split",
+  "name": "Real Fyre Rugged Forest Split Vented Gas Log Set",
+  "brand": "Real Fyre",
+  "category": "gas-log-set",
+  "subcategory": "vented-gas-log-set",
+  "site_page": "gas-log-set/vented-gas-log-set/real-fyre-rugged-forest-split/",
+  "price": {
+    "amount_usd": 1900,
+    "display": "$1,900",
+    "note": "Sale — reg. $2,000",
+    "starting_at": false
+  },
+  "display_status": "available_to_order",
+  "summary": "Split-bark logs stacked like you carried them in from the woodpile — then someone lit them without the work.",
+  "specs": {
+    "Type": "Vented gas log set",
+    "Brand": "Real Fyre",
+    "Material": "Hand-split ceramic fiber",
+    "Fuel": "Natural gas or LP",
+    "Venting": "Vented — damper open",
+    "Chimney": "Working chimney required",
+    "Sizes": "18\"–30\"",
+    "Ignition": "Match-lit or remote-ready",
+    "Shipping": "Free",
+    "Installation": "Chimney Monkey (optional)"
+  },
+  "images": {
+    "hero": "generated-1783385293369.png"
+  },
+  "finishes": [],
+  "options": [],
+  "features": [],
+  "active": true,
+  "last_verified": null,
+  "notes_for_site_team": ""
+}

@@ -1,0 +1,37 @@
+{
+  "id": "enviro-g39",
+  "name": "Enviro G39 Direct Vent Gas Fireplace",
+  "brand": "Enviro",
+  "category": "direct-vent-fireplace",
+  "subcategory": null,
+  "site_page": "direct-vent-fireplace/enviro-g39/",
+  "price": {
+    "amount_usd": 4000,
+    "display": "From $4,000",
+    "note": "before install · financing available",
+    "starting_at": true
+  },
+  "display_status": "available_to_order",
+  "summary": "A wide wall of fire in a room that never had a fireplace — no chimney, no compromise.",
+  "specs": {
+    "Type": "Direct vent gas fireplace",
+    "Fuel": "Natural gas or LP",
+    "Venting": "Direct vent (coaxial)",
+    "Max output": "30,000 BTU/hr",
+    "Heating area": "Up to ~1,100 sq ft",
+    "Viewing area": "39\" wide",
+    "Ignition": "Electronic · remote-ready",
+    "Efficiency": "Up to 72%",
+    "Dimensions": "45\"W × 30\"H × 16\"D",
+    "Finishes": "Fronts, faces & liners"
+  },
+  "images": {
+    "hero": "generated-1783385014721.png"
+  },
+  "finishes": [],
+  "options": [],
+  "features": [],
+  "active": true,
+  "last_verified": null,
+  "notes_for_site_team": ""
+}

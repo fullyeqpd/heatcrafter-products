@@ -1,0 +1,37 @@
+{
+  "id": "enviro-ri30",
+  "name": "Enviro Ri30 Gas Fireplace Insert",
+  "brand": "Enviro",
+  "category": "fireplace-insert",
+  "subcategory": "gas-fireplace-insert",
+  "site_page": "fireplace-insert/gas-fireplace-insert/enviro-ri30/",
+  "price": {
+    "amount_usd": 7000,
+    "display": "From $7,000",
+    "note": "before install · financing available",
+    "starting_at": true
+  },
+  "display_status": "available_to_order",
+  "summary": "Proof that a real, glowing fire doesn't have to be the expensive part of the remodel.",
+  "specs": {
+    "Type": "Gas fireplace insert",
+    "Fuel": "Natural gas or LP",
+    "Venting": "Direct vent (coaxial)",
+    "Max output": "25,000 BTU/hr",
+    "Heating area": "Up to ~1,000 sq ft",
+    "Viewing area": "30\" wide",
+    "Ignition": "Electronic, battery backup",
+    "Efficiency": "Up to 71%",
+    "Dimensions": "36\"W × 26\"H × 19\"D",
+    "Finishes": "Fronts, faces & liners"
+  },
+  "images": {
+    "hero": "generated-1783384871581.png"
+  },
+  "finishes": [],
+  "options": [],
+  "features": [],
+  "active": true,
+  "last_verified": null,
+  "notes_for_site_team": ""
+}

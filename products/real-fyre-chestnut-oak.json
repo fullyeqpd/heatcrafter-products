@@ -1,0 +1,37 @@
+{
+  "id": "real-fyre-chestnut-oak",
+  "name": "Real Fyre Chestnut Oak Vented Gas Logs",
+  "brand": "Real Fyre",
+  "category": "gas-log-set",
+  "subcategory": "vented-gas-log-set",
+  "site_page": "gas-log-set/vented-gas-log-set/real-fyre-chestnut-oak/",
+  "price": {
+    "amount_usd": 860,
+    "display": "$860",
+    "note": "Included in your quote · financing available",
+    "starting_at": false
+  },
+  "display_status": "available_to_order",
+  "summary": "The gas logs nobody believes are gas — tall, lazy flames over logs you'd swear you split yourself.",
+  "specs": {
+    "Type": "Vented gas log set",
+    "Brand": "Real Fyre",
+    "Material": "Hand-painted ceramic fiber",
+    "Fuel": "Natural gas or LP",
+    "Venting": "Vented — damper open",
+    "Chimney": "Working chimney required",
+    "Sizes": "18\"–30\"",
+    "Ignition": "Match-lit or remote-ready",
+    "Shipping": "Free",
+    "Installation": "Chimney Monkey (optional)"
+  },
+  "images": {
+    "hero": "generated-1783385047106.png"
+  },
+  "finishes": [],
+  "options": [],
+  "features": [],
+  "active": true,
+  "last_verified": null,
+  "notes_for_site_team": ""
+}

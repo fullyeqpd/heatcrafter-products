@@ -1,0 +1,37 @@
+{
+  "id": "dimplex-optimyst-aura",
+  "name": "Dimplex Optimyst Aura Water Vapor Fireplace",
+  "brand": "Dimplex",
+  "category": "water-vapor-fireplace",
+  "subcategory": null,
+  "site_page": "water-vapor-fireplace/dimplex-optimyst-aura/",
+  "price": {
+    "amount_usd": 580,
+    "display": "$580",
+    "note": "included in your quote · ships in 1–2 weeks",
+    "starting_at": false
+  },
+  "display_status": "on_live_display",
+  "summary": "Looks exactly like fire, feels like nothing at all — the flame you can literally run your hand through.",
+  "specs": {
+    "Type": "Water vapor fireplace",
+    "Runs on": "Water + 120V outlet",
+    "Venting": "None required",
+    "Flame": "Cool water vapor",
+    "Heat": "Ambiance-first (optional heat)",
+    "Viewing area": "Realistic mist flame",
+    "Control": "Remote + app",
+    "Safety": "Cool-to-touch, kid-safe",
+    "Refill": "Fill reservoir with water",
+    "Finishes": "Glass front, crystal media"
+  },
+  "images": {
+    "hero": "generated-1783385217674.png"
+  },
+  "finishes": [],
+  "options": [],
+  "features": [],
+  "active": true,
+  "last_verified": null,
+  "notes_for_site_team": ""
+}

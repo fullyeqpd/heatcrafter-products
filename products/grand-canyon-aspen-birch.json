@@ -1,0 +1,37 @@
+{
+  "id": "grand-canyon-aspen-birch",
+  "name": "Grand Canyon Aspen Birch Ventless Gas Logs",
+  "brand": "Grand Canyon",
+  "category": "gas-log-set",
+  "subcategory": "ventless-gas-log-set",
+  "site_page": "gas-log-set/ventless-gas-log-set/grand-canyon-aspen-birch/",
+  "price": {
+    "amount_usd": 840,
+    "display": "$840",
+    "note": "Included in your quote · financing available",
+    "starting_at": false
+  },
+  "display_status": "available_to_order",
+  "summary": "Pale birch and a bright, lively flame — a lighter, brighter fire for a room that could use lifting.",
+  "specs": {
+    "Type": "Ventless gas log set",
+    "Brand": "Grand Canyon Gas Logs",
+    "Material": "Refractory ceramic",
+    "Fuel": "Natural gas or LP",
+    "Venting": "Ventless — ODS pilot",
+    "Chimney": "Not required",
+    "Sizes": "18\"–30\"",
+    "Safety": "ODS pilot (oxygen sensor)",
+    "Shipping": "Free",
+    "Installation": "Chimney Monkey (optional)"
+  },
+  "images": {
+    "hero": "generated-1783385693655.png"
+  },
+  "finishes": [],
+  "options": [],
+  "features": [],
+  "active": true,
+  "last_verified": null,
+  "notes_for_site_team": ""
+}

@@ -1,0 +1,37 @@
+{
+  "id": "real-fyre-split-oak-designer-plus",
+  "name": "Real Fyre Split Oak Designer Plus Vented Gas Log Set",
+  "brand": "Real Fyre",
+  "category": "gas-log-set",
+  "subcategory": "vented-gas-log-set",
+  "site_page": "gas-log-set/vented-gas-log-set/real-fyre-split-oak-designer-plus/",
+  "price": {
+    "amount_usd": 2000,
+    "display": "$2,000",
+    "note": "Premium set",
+    "starting_at": false
+  },
+  "display_status": "on_live_display",
+  "summary": "The showpiece set — designer-grade oak and a hand-tuned flame that make your firebox the best-looking fire on the block.",
+  "specs": {
+    "Type": "Vented gas log set",
+    "Brand": "Real Fyre",
+    "Material": "Hand-split ceramic fiber",
+    "Fuel": "Natural gas or LP",
+    "Venting": "Vented — damper open",
+    "Chimney": "Working chimney required",
+    "Sizes": "18\"–30\"",
+    "Burner": "Designer Plus premium",
+    "Shipping": "Free",
+    "Installation": "Chimney Monkey (optional)"
+  },
+  "images": {
+    "hero": "generated-1783385489969.png"
+  },
+  "finishes": [],
+  "options": [],
+  "features": [],
+  "active": true,
+  "last_verified": null,
+  "notes_for_site_team": ""
+}

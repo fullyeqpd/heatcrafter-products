@@ -1,0 +1,37 @@
+{
+  "id": "stuv-6",
+  "name": "Stûv6 Wood Burning Fireplace Insert",
+  "brand": "Stûv",
+  "category": "fireplace-insert",
+  "subcategory": "wood-burning-fireplace-insert",
+  "site_page": "fireplace-insert/wood-burning-fireplace-insert/stuv-6/",
+  "price": {
+    "amount_usd": 12500,
+    "display": "From $12,500",
+    "note": "before install · financing available",
+    "starting_at": true
+  },
+  "display_status": "available_to_order",
+  "summary": "Real wood fire, stripped to its purest form — a live flame behind clean glass, framed like a piece of art.",
+  "specs": {
+    "Type": "Wood burning fireplace insert",
+    "Fuel": "Cordwood (seasoned)",
+    "Venting": "Stainless liner (included)",
+    "Max output": "Up to ~55,000 BTU/hr",
+    "Heating area": "1,200–1,800 sq ft",
+    "Viewing area": "Edge-to-edge glass",
+    "Loading": "Front-loading door",
+    "Efficiency": "Up to 70%+",
+    "Sizing": "Sized to your firebox",
+    "Finishes": "Black steel, glass front"
+  },
+  "images": {
+    "hero": "generated-1783384794205.png"
+  },
+  "finishes": [],
+  "options": [],
+  "features": [],
+  "active": true,
+  "last_verified": null,
+  "notes_for_site_team": "Model naming: site uses both Stûv6 and Stûv 6 — Art to pick one (open item)."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "superior-traditional-with-enclosure",
+  "name": "Superior Traditional Outdoor Gas Fireplace with Enclosure",
+  "brand": "Superior",
+  "category": "outdoor-fireplace",
+  "subcategory": null,
+  "site_page": "outdoor-fireplace/superior-traditional-with-enclosure/",
+  "price": {
+    "amount_usd": 9000,
+    "display": "From $9,000",
+    "note": "reg. $10,000 · on sale · before install",
+    "starting_at": true
+  },
+  "display_status": "available_to_order",
+  "summary": "The reason everyone stays outside long after the sun's gone — a real fire that turns the patio into the best seat in the house.",
+  "specs": {
+    "Type": "Outdoor gas fireplace",
+    "Fuel": "Natural gas or LP",
+    "Venting": "Outdoor / open front",
+    "Max output": "Up to ~50,000 BTU/hr",
+    "Rating": "Outdoor-rated stainless",
+    "Viewing area": "Wide traditional firebox",
+    "Ignition": "Electronic ignition",
+    "Weather": "Wind-resistant flame",
+    "Enclosure": "Weatherproof, included",
+    "Finishes": "Masonry-look, surround-ready"
+  },
+  "images": {
+    "hero": "generated-1783386263565.png"
+  },
+  "finishes": [],
+  "options": [],
+  "features": [],
+  "active": true,
+  "last_verified": null,
+  "notes_for_site_team": ""
+}

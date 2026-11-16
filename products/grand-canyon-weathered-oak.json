@@ -1,0 +1,37 @@
+{
+  "id": "grand-canyon-weathered-oak",
+  "name": "Grand Canyon Weathered Oak Ventless Gas Logs",
+  "brand": "Grand Canyon",
+  "category": "gas-log-set",
+  "subcategory": "ventless-gas-log-set",
+  "site_page": "gas-log-set/ventless-gas-log-set/grand-canyon-weathered-oak/",
+  "price": {
+    "amount_usd": 1200,
+    "display": "$1,200",
+    "note": "Sale — reg. $1,840",
+    "starting_at": false
+  },
+  "display_status": "available_to_order",
+  "summary": "The look of a fire that's been burning all season — aged, silvery oak, deep and lived-in.",
+  "specs": {
+    "Type": "Ventless gas log set",
+    "Brand": "Grand Canyon Gas Logs",
+    "Material": "Refractory ceramic",
+    "Fuel": "Natural gas or LP",
+    "Venting": "Ventless — ODS pilot",
+    "Chimney": "Not required",
+    "Sizes": "18\"–30\"",
+    "Safety": "ODS pilot (oxygen sensor)",
+    "Shipping": "Free",
+    "Installation": "Chimney Monkey (optional)"
+  },
+  "images": {
+    "hero": "generated-1783386177509.png"
+  },
+  "finishes": [],
+  "options": [],
+  "features": [],
+  "active": true,
+  "last_verified": null,
+  "notes_for_site_team": ""
+}

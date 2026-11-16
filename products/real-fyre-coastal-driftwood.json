@@ -1,0 +1,37 @@
+{
+  "id": "real-fyre-coastal-driftwood",
+  "name": "Real Fyre Coastal Driftwood Vented Gas Logs",
+  "brand": "Real Fyre",
+  "category": "gas-log-set",
+  "subcategory": "vented-gas-log-set",
+  "site_page": "gas-log-set/vented-gas-log-set/real-fyre-coastal-driftwood/",
+  "price": {
+    "amount_usd": 400,
+    "display": "$400",
+    "note": "Entry price point",
+    "starting_at": false
+  },
+  "display_status": "available_to_order",
+  "summary": "A lighter, sun-bleached take on fireside — driftwood flames that feel more beach house than hunting lodge.",
+  "specs": {
+    "Type": "Vented gas log set",
+    "Brand": "Real Fyre",
+    "Material": "Hand-painted ceramic fiber",
+    "Fuel": "Natural gas or LP",
+    "Venting": "Vented — damper open",
+    "Chimney": "Working chimney required",
+    "Sizes": "18\"–30\"",
+    "Ignition": "Match-lit or remote-ready",
+    "Shipping": "Free",
+    "Installation": "Chimney Monkey (optional)"
+  },
+  "images": {
+    "hero": "generated-1783385201628.png"
+  },
+  "finishes": [],
+  "options": [],
+  "features": [],
+  "active": true,
+  "last_verified": null,
+  "notes_for_site_team": ""
+}

@@ -1,0 +1,37 @@
+{
+  "id": "farmhouse-non-combustible",
+  "name": "Farmhouse Non-Combustible Mantel",
+  "brand": "TBD — Charlie: set brand",
+  "category": "fireplace-mantel",
+  "subcategory": null,
+  "site_page": "fireplace-mantel/farmhouse-non-combustible/",
+  "price": {
+    "amount_usd": 11994,
+    "display": "From $11,994",
+    "note": "before install · financing available",
+    "starting_at": true
+  },
+  "display_status": "available_to_order",
+  "summary": "The detail that makes a fireplace look finished instead of installed — the frame the whole wall leans on.",
+  "specs": {
+    "Type": "Mantel & surround",
+    "Material": "Non-combustible composite",
+    "Clearance": "Zero-clearance rated",
+    "TV above": "Yes — TV-safe",
+    "Sizing": "Custom to your wall",
+    "Look": "Farmhouse / reclaimed",
+    "Pairs with": "Any insert or DV fireplace",
+    "Finishes": "Multiple options",
+    "Install": "Set during fireplace install",
+    "Warranty": "Manufacturer-backed"
+  },
+  "images": {
+    "hero": "generated-1783385509185.png"
+  },
+  "finishes": [],
+  "options": [],
+  "features": [],
+  "active": true,
+  "last_verified": null,
+  "notes_for_site_team": "Brand unknown — likely Lexington Hearth or house brand; confirm and set."
+}

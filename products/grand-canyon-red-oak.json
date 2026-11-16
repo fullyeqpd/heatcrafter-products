@@ -1,0 +1,37 @@
+{
+  "id": "grand-canyon-red-oak",
+  "name": "Grand Canyon Red Oak Ventless Gas Logs",
+  "brand": "Grand Canyon",
+  "category": "gas-log-set",
+  "subcategory": "ventless-gas-log-set",
+  "site_page": "gas-log-set/ventless-gas-log-set/grand-canyon-red-oak/",
+  "price": {
+    "amount_usd": 1200,
+    "display": "$1,200",
+    "note": "Included in your quote · financing available",
+    "starting_at": false
+  },
+  "display_status": "available_to_order",
+  "summary": "Classic oak with the heat turned up — the ventless set you reach for when warmth matters more than anything.",
+  "specs": {
+    "Type": "Ventless gas log set",
+    "Brand": "Grand Canyon Gas Logs",
+    "Material": "Refractory ceramic",
+    "Fuel": "Natural gas or LP",
+    "Venting": "Ventless — ODS pilot",
+    "Chimney": "Not required",
+    "Sizes": "18\"–30\"",
+    "Safety": "ODS pilot (oxygen sensor)",
+    "Shipping": "Free",
+    "Installation": "Chimney Monkey (optional)"
+  },
+  "images": {
+    "hero": "generated-1783385786014.png"
+  },
+  "finishes": [],
+  "options": [],
+  "features": [],
+  "active": true,
+  "last_verified": null,
+  "notes_for_site_team": ""
+}

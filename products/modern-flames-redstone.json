@@ -1,0 +1,37 @@
+{
+  "id": "modern-flames-redstone",
+  "name": "Modern Flames Redstone Electric Fireplace",
+  "brand": "Modern Flames",
+  "category": "electric-fireplace",
+  "subcategory": null,
+  "site_page": "electric-fireplace/modern-flames-redstone/",
+  "price": {
+    "amount_usd": 2200,
+    "display": "$2,200",
+    "note": "included in your quote · ships in 1–2 weeks",
+    "starting_at": false
+  },
+  "display_status": "available_to_order",
+  "summary": "Instant fire, no strings attached — flip it on and the room has a fireplace, gas line or not.",
+  "specs": {
+    "Type": "Electric fireplace",
+    "Power": "Electric (120V)",
+    "Venting": "None required",
+    "Max output": "~5,000 BTU (1500W)",
+    "Heating area": "Supplemental ~400 sq ft",
+    "Viewing area": "Multicolor LED flame",
+    "Control": "Remote + touch panel",
+    "Efficiency": "100% (no venting loss)",
+    "Install": "Recessed or wall-mount",
+    "Finishes": "Black glass front"
+  },
+  "images": {
+    "hero": "generated-1783385085421.png"
+  },
+  "finishes": [],
+  "options": [],
+  "features": [],
+  "active": true,
+  "last_verified": null,
+  "notes_for_site_team": ""
+}

@@ -1,0 +1,37 @@
+{
+  "id": "empire-blackburn-36",
+  "name": "Empire Blackburn 36 Direct Vent Gas Fireplace",
+  "brand": "Empire",
+  "category": "direct-vent-fireplace",
+  "subcategory": null,
+  "site_page": "direct-vent-fireplace/empire-blackburn-36/",
+  "price": {
+    "amount_usd": 6000,
+    "display": "From $6,000",
+    "note": "before install · financing available",
+    "starting_at": true
+  },
+  "display_status": "available_to_order",
+  "summary": "The built-in that looks like it's always been there — classic louvered lines and a broad, steady flame.",
+  "specs": {
+    "Type": "Direct vent gas fireplace",
+    "Fuel": "Natural gas or LP",
+    "Venting": "Direct vent (wall or roof)",
+    "Max output": "36,000 BTU/hr",
+    "Heating area": "Up to ~1,200 sq ft",
+    "Viewing area": "36\" wide",
+    "Ignition": "Electronic, battery backup",
+    "Efficiency": "High-efficiency sealed system",
+    "Dimensions": "43\"W × 33\"H × 20\"D",
+    "Finishes": "Louvered & clean-face fronts"
+  },
+  "images": {
+    "hero": "generated-1783384620619.png"
+  },
+  "finishes": [],
+  "options": [],
+  "features": [],
+  "active": true,
+  "last_verified": null,
+  "notes_for_site_team": ""
+}

@@ -1,0 +1,37 @@
+{
+  "id": "stuv-16",
+  "name": "Stûv16 Wood Burning Stove",
+  "brand": "Stûv",
+  "category": "wood-burning-stove",
+  "subcategory": null,
+  "site_page": "wood-burning-stove/stuv-16/",
+  "price": {
+    "amount_usd": 14500,
+    "display": "From $14,500",
+    "note": "before install · financing available",
+    "starting_at": true
+  },
+  "display_status": "available_to_order",
+  "summary": "The pop and crackle of a real wood fire, wrapped in a shape you'd keep even if it never got cold.",
+  "specs": {
+    "Type": "Freestanding wood stove",
+    "Fuel": "Cordwood (seasoned)",
+    "Venting": "Top or rear flue (new)",
+    "Max output": "Up to ~70,000 BTU/hr",
+    "Heating area": "1,500–2,000 sq ft",
+    "Viewing area": "Wide glass door",
+    "Loading": "Front-loading door",
+    "Efficiency": "EPA-certified, high",
+    "Base": "Optional rotating base",
+    "Finishes": "Steel, multiple colors"
+  },
+  "images": {
+    "hero": "generated-1783384920254.png"
+  },
+  "finishes": [],
+  "options": [],
+  "features": [],
+  "active": true,
+  "last_verified": null,
+  "notes_for_site_team": "Model naming: site uses both Stûv16 and Stûv 16 — Art to pick one (open item)."
+}

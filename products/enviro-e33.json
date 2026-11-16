@@ -1,0 +1,37 @@
+{
+  "id": "enviro-e33",
+  "name": "Enviro E33 Gas Fireplace Insert",
+  "brand": "Enviro",
+  "category": "fireplace-insert",
+  "subcategory": "gas-fireplace-insert",
+  "site_page": "fireplace-insert/gas-fireplace-insert/enviro-e33/",
+  "price": {
+    "amount_usd": 8000,
+    "display": "From $8,000",
+    "note": "before install · financing available",
+    "starting_at": true
+  },
+  "display_status": "available_to_order",
+  "summary": "Turns the fireplace you stopped using into the one you light every night — a warm, easy glow the moment you walk in.",
+  "specs": {
+    "Type": "Gas fireplace insert",
+    "Fuel": "Natural gas or LP",
+    "Venting": "Direct vent (coaxial)",
+    "Max output": "30,000 BTU/hr",
+    "Heating area": "Up to ~1,200 sq ft",
+    "Viewing area": "33\" wide",
+    "Ignition": "Electronic, battery backup",
+    "Efficiency": "Up to 73%",
+    "Dimensions": "40\"W × 27\"H × 21\"D",
+    "Finishes": "Fronts, faces & liners"
+  },
+  "images": {
+    "hero": "generated-1783384561977.png"
+  },
+  "finishes": [],
+  "options": [],
+  "features": [],
+  "active": true,
+  "last_verified": null,
+  "notes_for_site_team": ""
+}

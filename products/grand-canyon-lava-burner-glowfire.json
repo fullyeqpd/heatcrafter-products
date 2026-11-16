@@ -1,0 +1,37 @@
+{
+  "id": "grand-canyon-lava-burner-glowfire",
+  "name": "Grand Canyon Lava Burner with GlowFire™ Vented Gas Logs",
+  "brand": "Grand Canyon",
+  "category": "gas-log-set",
+  "subcategory": "vented-gas-log-set",
+  "site_page": "gas-log-set/vented-gas-log-set/grand-canyon-lava-burner-glowfire/",
+  "price": {
+    "amount_usd": 724,
+    "display": "$724",
+    "note": "Included in your quote · financing available",
+    "starting_at": false
+  },
+  "display_status": "available_to_order",
+  "summary": "Glowing coals under tall, dancing flames — the set that makes people lean in to check it's really gas.",
+  "specs": {
+    "Type": "Vented gas log set",
+    "Brand": "Grand Canyon Gas Logs",
+    "Material": "Refractory ceramic",
+    "Fuel": "Natural gas or LP",
+    "Venting": "Vented — damper open",
+    "Chimney": "Working chimney required",
+    "Sizes": "18\"–30\"",
+    "Burner": "Lava Burner + GlowFire™",
+    "Shipping": "Free",
+    "Installation": "Chimney Monkey (optional)"
+  },
+  "images": {
+    "hero": "generated-1783385579392.png"
+  },
+  "finishes": [],
+  "options": [],
+  "features": [],
+  "active": true,
+  "last_verified": null,
+  "notes_for_site_team": ""
+}
