@@ -6,10 +6,10 @@
   "subcategory": "gas-fireplace-insert",
   "site_page": "fireplace-insert/gas-fireplace-insert/enviro-ex35/",
   "price": {
-    "amount_usd": 9000,
-    "display": "From $9,000",
-    "note": "before install · financing available",
-    "starting_at": true
+    "amount_usd": 10430,
+    "display": "Average install price range: $10,430–$12,260",
+    "note": "installation included · financing available",
+    "starting_at": false
   },
   "display_status": "burning_now",
   "summary": "The big one, for the room that runs the house — a deep, wide fire you feel from the far side of the couch.",
@@ -33,5 +33,5 @@
   "features": [],
   "active": true,
   "last_verified": null,
-  "notes_for_site_team": ""
+  "notes_for_site_team": "Price is the AVERAGE INSTALL price range (installation included), from Charlie's display-room cheat sheet 2026-11-18. amount_usd is the low end of the range; please show the range text from price.display, not a 'From' price."
 }
