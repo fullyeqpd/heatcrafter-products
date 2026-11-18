@@ -26,12 +26,12 @@
     "Finishes": "Steel, multiple colors"
   },
   "images": {
-    "hero": "stuv-16.jpg"
+    "hero": "generated-1783384920254.png"
   },
   "finishes": [],
   "options": [],
   "features": [],
   "active": true,
   "last_verified": null,
-  "notes_for_site_team": "Model naming: site uses both Stûv16 and Stûv 16 — Art to pick one (open item). Hero image replaced with a real showroom photo: images/products/stuv-16.jpg. Please swap it in on the product page. Price is the AVERAGE INSTALL price range (installation included), from the showroom display card (2026-11-18). amount_usd is the low end; show the range text from price.display, not a 'From' price."
+  "notes_for_site_team": "Model naming: site uses both Stûv16 and Stûv 16 — Art to pick one (open item). Price is the AVERAGE INSTALL price range (installation included), from the showroom display card (2026-11-18). amount_usd is the low end; show the range text from price.display, not a 'From' price."
 }
