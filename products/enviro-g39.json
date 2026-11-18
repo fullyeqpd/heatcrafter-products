@@ -29,7 +29,7 @@
     "Finishes": "Fronts, faces & liners"
   },
   "images": {
-    "hero": "generated-1783385014721.png"
+    "hero": "enviro-g39.jpg"
   },
   "finishes": [
     "Face: Slim Face, Painted Black (included), 39\" W × 33 3/4\" H",
@@ -60,5 +60,5 @@
   ],
   "active": true,
   "last_verified": null,
-  "notes_for_site_team": "Specs, finishes, options and features updated from enviro.com G39 page (2026-11-16). Hero image is still a placeholder; real photo pending from Charlie. Previous 'Viewing area 39\" wide' was the face width; glass is 30\" W x 24\" H. Price is the AVERAGE INSTALL price range (installation included), from Charlie's display-room cheat sheet 2026-11-18. amount_usd is the low end of the range; please show the range text from price.display, not a 'From' price."
+  "notes_for_site_team": "Specs, finishes, options and features updated from enviro.com G39 page (2026-11-16).  Previous 'Viewing area 39\" wide' was the face width; glass is 30\" W x 24\" H. Price is the AVERAGE INSTALL price range (installation included), from Charlie's display-room cheat sheet 2026-11-18. amount_usd is the low end of the range; please show the range text from price.display, not a 'From' price. Hero image replaced with a real showroom photo: images/products/enviro-g39.jpg. Please swap it in on the product page."
 }
