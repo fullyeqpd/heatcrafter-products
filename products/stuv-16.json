@@ -6,10 +6,10 @@
   "subcategory": null,
   "site_page": "wood-burning-stove/stuv-16/",
   "price": {
-    "amount_usd": 14500,
-    "display": "From $14,500",
-    "note": "before install · financing available",
-    "starting_at": true
+    "amount_usd": 11310,
+    "display": "Average install price range: $11,310–$12,270",
+    "note": "installation included · financing available",
+    "starting_at": false
   },
   "display_status": "on_live_display",
   "summary": "The pop and crackle of a real wood fire, wrapped in a shape you'd keep even if it never got cold.",
@@ -18,7 +18,7 @@
     "Fuel": "Cordwood (seasoned)",
     "Venting": "Top or rear flue (new)",
     "Max output": "Up to ~70,000 BTU/hr",
-    "Heating area": "1,500–2,000 sq ft",
+    "Heating area": "Up to 2,100 sq ft",
     "Viewing area": "Wide glass door",
     "Loading": "Front-loading door",
     "Efficiency": "EPA-certified, high",
@@ -33,5 +33,5 @@
   "features": [],
   "active": true,
   "last_verified": null,
-  "notes_for_site_team": "Model naming: site uses both Stûv16 and Stûv 16 — Art to pick one (open item). Hero image replaced with a real showroom photo: images/products/stuv-16.jpg. Please swap it in on the product page."
+  "notes_for_site_team": "Model naming: site uses both Stûv16 and Stûv 16 — Art to pick one (open item). Hero image replaced with a real showroom photo: images/products/stuv-16.jpg. Please swap it in on the product page. Price is the AVERAGE INSTALL price range (installation included), from the showroom display card (2026-11-18). amount_usd is the low end; show the range text from price.display, not a 'From' price."
 }
