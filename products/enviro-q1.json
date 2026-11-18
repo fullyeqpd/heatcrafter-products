@@ -6,10 +6,10 @@
   "subcategory": "gas-fireplace-insert",
   "site_page": "fireplace-insert/gas-fireplace-insert/enviro-q1/",
   "price": {
-    "amount_usd": 7700,
-    "display": "From $7,700",
-    "note": "before install · financing available",
-    "starting_at": true
+    "amount_usd": 9920,
+    "display": "Average install price range: $9,920–$11,680 (insert) / $11,120–$12,940 (fireplace)",
+    "note": "installation included · financing available",
+    "starting_at": false
   },
   "display_status": "burning_now",
   "summary": "The modern update a dated firebox has been waiting for — a crisp ribbon of flame that makes a smaller room feel deliberately designed.",
@@ -33,5 +33,5 @@
   "features": [],
   "active": true,
   "last_verified": null,
-  "notes_for_site_team": ""
+  "notes_for_site_team": "Price is the AVERAGE INSTALL price range (installation included), from Charlie's display-room cheat sheet 2026-11-18. amount_usd is the low end of the range; please show the range text from price.display, not a 'From' price."
 }
