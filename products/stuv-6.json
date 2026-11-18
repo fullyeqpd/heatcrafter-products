@@ -26,12 +26,12 @@
     "Finishes": "Black steel, glass front"
   },
   "images": {
-    "hero": "stuv-6.jpg"
+    "hero": "generated-1783384794205.png"
   },
   "finishes": [],
   "options": [],
   "features": [],
   "active": true,
   "last_verified": null,
-  "notes_for_site_team": "Model naming: site uses both Stûv6 and Stûv 6 — Art to pick one (open item). Hero image replaced with a real showroom photo: images/products/stuv-6.jpg. Please swap it in on the product page. Price is the AVERAGE INSTALL price range (installation included), from the showroom display card (2026-11-18). amount_usd is the low end; show the range text from price.display, not a 'From' price."
+  "notes_for_site_team": "Model naming: site uses both Stûv6 and Stûv 6 — Art to pick one (open item). Price is the AVERAGE INSTALL price range (installation included), from the showroom display card (2026-11-18). amount_usd is the low end; show the range text from price.display, not a 'From' price."
 }
