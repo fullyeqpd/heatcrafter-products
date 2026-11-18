@@ -26,12 +26,12 @@
     "Finishes": "Fronts, faces & liners"
   },
   "images": {
-    "hero": "generated-1783384561977.png"
+    "hero": "enviro-e33.jpg"
   },
   "finishes": [],
   "options": [],
   "features": [],
   "active": true,
   "last_verified": null,
-  "notes_for_site_team": "Price is the AVERAGE INSTALL price range (installation included), from Charlie's display-room cheat sheet 2026-11-18. amount_usd is the low end of the range; please show the range text from price.display, not a 'From' price."
+  "notes_for_site_team": "Price is the AVERAGE INSTALL price range (installation included), from Charlie's display-room cheat sheet 2026-11-18. amount_usd is the low end of the range; please show the range text from price.display, not a 'From' price. Hero image replaced with a real showroom photo: images/products/enviro-e33.jpg. Please swap it in on the product page."
 }
