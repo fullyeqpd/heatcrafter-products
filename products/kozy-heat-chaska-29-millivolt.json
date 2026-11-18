@@ -1,0 +1,35 @@
+{
+  "id": "kozy-heat-chaska-29-millivolt",
+  "name": "Kozy Heat Chaska 29 Gas Fireplace Insert (Millivolt)",
+  "brand": "Kozy Heat",
+  "category": "fireplace-insert",
+  "subcategory": "gas-fireplace-insert",
+  "site_page": null,
+  "price": {
+    "amount_usd": 6930,
+    "display": "Average install price range: $6,930–$9,970",
+    "note": "installation included · financing available",
+    "starting_at": false
+  },
+  "display_status": "burning_now",
+  "summary": "The fire you picture when someone says \"fireplace\" — deep, unhurried flames in a classic brick opening.",
+  "specs": {
+    "Type": "Gas fireplace insert",
+    "Fuel": "Natural gas or LP",
+    "Venting": "Direct vent (coaxial)",
+    "Max output": "28,000 BTU/hr",
+    "Heating area": "Up to ~1,000 sq ft",
+    "Viewing area": "29\" wide",
+    "Ignition": "Millivolt standing pilot — no electricity needed",
+    "Efficiency": "Up to 74% (P4)",
+    "Dimensions": "34\"W × 27\"H × 21\"D",
+    "Finishes": "Fronts, faces & liners"
+  },
+  "images": {},
+  "finishes": [],
+  "options": [],
+  "features": [],
+  "active": true,
+  "last_verified": null,
+  "notes_for_site_team": "New listing: Chaska 29 millivolt (the unit on the showroom floor). Needs its own page and a real product photo. Price is the AVERAGE INSTALL price range (installation included), from Charlie's display-room cheat sheet 2026-11-18. amount_usd is the low end of the range; please show the range text from price.display, not a 'From' price."
+}
