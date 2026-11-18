@@ -25,13 +25,11 @@
     "Dimensions": "34\"W × 27\"H × 21\"D",
     "Finishes": "Fronts, faces & liners"
   },
-  "images": {
-    "hero": "kozy-heat-chaska-29-millivolt.jpg"
-  },
+  "images": {},
   "finishes": [],
   "options": [],
   "features": [],
   "active": true,
   "last_verified": null,
-  "notes_for_site_team": "New listing: Chaska 29 millivolt (the unit on the showroom floor). Needs its own page. Price is the AVERAGE INSTALL price range (installation included), from Charlie's display-room cheat sheet 2026-11-18. amount_usd is the low end of the range; please show the range text from price.display, not a 'From' price. Hero image replaced with a real showroom photo: images/products/kozy-heat-chaska-29-millivolt.jpg. Please swap it in on the product page."
+  "notes_for_site_team": "New listing: Chaska 29 millivolt (the unit on the showroom floor). Needs its own page and a real product photo. Price is the AVERAGE INSTALL price range (installation included), from Charlie's display-room cheat sheet 2026-11-18. amount_usd is the low end of the range; please show the range text from price.display, not a 'From' price."
 }
