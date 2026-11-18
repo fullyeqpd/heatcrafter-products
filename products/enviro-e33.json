@@ -6,10 +6,10 @@
   "subcategory": "gas-fireplace-insert",
   "site_page": "fireplace-insert/gas-fireplace-insert/enviro-e33/",
   "price": {
-    "amount_usd": 8000,
-    "display": "From $8,000",
-    "note": "before install · financing available",
-    "starting_at": true
+    "amount_usd": 9870,
+    "display": "Average install price range: $9,870–$11,970",
+    "note": "installation included · financing available",
+    "starting_at": false
   },
   "display_status": "burning_now",
   "summary": "Turns the fireplace you stopped using into the one you light every night — a warm, easy glow the moment you walk in.",
@@ -33,5 +33,5 @@
   "features": [],
   "active": true,
   "last_verified": null,
-  "notes_for_site_team": ""
+  "notes_for_site_team": "Price is the AVERAGE INSTALL price range (installation included), from Charlie's display-room cheat sheet 2026-11-18. amount_usd is the low end of the range; please show the range text from price.display, not a 'From' price."
 }
