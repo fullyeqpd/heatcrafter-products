@@ -1,6 +1,6 @@
 {
   "id": "kozy-heat-chaska-29",
-  "name": "Kozy Heat Chaska 29 Gas Fireplace Insert",
+  "name": "Kozy Heat Chaska 29 Gas Fireplace Insert (IPI)",
   "brand": "Kozy Heat",
   "category": "fireplace-insert",
   "subcategory": "gas-fireplace-insert",
@@ -20,7 +20,7 @@
     "Max output": "28,000 BTU/hr",
     "Heating area": "Up to ~1,000 sq ft",
     "Viewing area": "29\" wide",
-    "Ignition": "Electronic, battery backup",
+    "Ignition": "IPI electronic, battery backup",
     "Efficiency": "Up to 74% (P4)",
     "Dimensions": "34\"W × 27\"H × 21\"D",
     "Finishes": "Fronts, faces & liners"
@@ -33,5 +33,5 @@
   "features": [],
   "active": true,
   "last_verified": null,
-  "notes_for_site_team": "Hero image is an Unsplash hotlink on the site; needs a real product photo."
+  "notes_for_site_team": "Hero image is an Unsplash hotlink on the site; needs a real product photo. Renamed to '(IPI)' because a separate Millivolt listing now exists (kozy-heat-chaska-29-millivolt). IPI average install price range still to come from Charlie."
 }
