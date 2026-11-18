@@ -26,12 +26,12 @@
     "Finishes": "Black steel, glass front"
   },
   "images": {
-    "hero": "generated-1783384794205.png"
+    "hero": "stuv-6.jpg"
   },
   "finishes": [],
   "options": [],
   "features": [],
   "active": true,
   "last_verified": null,
-  "notes_for_site_team": "Model naming: site uses both Stûv6 and Stûv 6 — Art to pick one (open item)."
+  "notes_for_site_team": "Model naming: site uses both Stûv6 and Stûv 6 — Art to pick one (open item). Hero image replaced with a real showroom photo: images/products/stuv-6.jpg. Please swap it in on the product page."
 }
