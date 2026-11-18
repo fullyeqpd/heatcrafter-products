@@ -6,10 +6,10 @@
   "subcategory": "wood-burning-fireplace-insert",
   "site_page": "fireplace-insert/wood-burning-fireplace-insert/stuv-6/",
   "price": {
-    "amount_usd": 12500,
-    "display": "From $12,500",
-    "note": "before install · financing available",
-    "starting_at": true
+    "amount_usd": 10230,
+    "display": "Average install price range: $10,230–$11,170",
+    "note": "installation included · financing available",
+    "starting_at": false
   },
   "display_status": "available_to_order",
   "summary": "Real wood fire, stripped to its purest form — a live flame behind clean glass, framed like a piece of art.",
@@ -18,7 +18,7 @@
     "Fuel": "Cordwood (seasoned)",
     "Venting": "Stainless liner (included)",
     "Max output": "Up to ~55,000 BTU/hr",
-    "Heating area": "1,200–1,800 sq ft",
+    "Heating area": "Up to 1,400 sq ft",
     "Viewing area": "Edge-to-edge glass",
     "Loading": "Front-loading door",
     "Efficiency": "Up to 70%+",
@@ -33,5 +33,5 @@
   "features": [],
   "active": true,
   "last_verified": null,
-  "notes_for_site_team": "Model naming: site uses both Stûv6 and Stûv 6 — Art to pick one (open item). Hero image replaced with a real showroom photo: images/products/stuv-6.jpg. Please swap it in on the product page."
+  "notes_for_site_team": "Model naming: site uses both Stûv6 and Stûv 6 — Art to pick one (open item). Hero image replaced with a real showroom photo: images/products/stuv-6.jpg. Please swap it in on the product page. Price is the AVERAGE INSTALL price range (installation included), from the showroom display card (2026-11-18). amount_usd is the low end; show the range text from price.display, not a 'From' price."
 }
