@@ -26,12 +26,12 @@
     "Finishes": "Steel, multiple colors"
   },
   "images": {
-    "hero": "generated-1783384920254.png"
+    "hero": "stuv-16.jpg"
   },
   "finishes": [],
   "options": [],
   "features": [],
   "active": true,
   "last_verified": null,
-  "notes_for_site_team": "Model naming: site uses both Stûv16 and Stûv 16 — Art to pick one (open item)."
+  "notes_for_site_team": "Model naming: site uses both Stûv16 and Stûv 16 — Art to pick one (open item). Hero image replaced with a real showroom photo: images/products/stuv-16.jpg. Please swap it in on the product page."
 }
